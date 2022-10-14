@@ -4,3 +4,5 @@ mylogs.log
 # /my logs.log ----> yaha par folder kai andar jake ignore nahi krega jaha par yai .gitignore hai bas bahi par ignore krega
 
 # *.log  ---->> kahi par bhi log file hongi baha par yaiignore krega
+
+# folder ka naam /    -----> matlab is folder ko ignore karna hai 
